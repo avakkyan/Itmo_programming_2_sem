@@ -1,0 +1,1 @@
+//// Created by Karina on 18.02.2023.//#ifndef INC_1_LAB_SWAP_SW_H#define INC_1_LAB_SWAP_SW_H#endif //INC_1_LAB_SWAP_SW_Hvoid swap_m(int *a, int *b){    int temp = *a;    *a = *b;    *b = temp;}void swap_m(int &a, int& b){    int temp = a;    a = b;    b = temp;}

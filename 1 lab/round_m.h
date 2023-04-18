@@ -1,0 +1,1 @@
+//// Created by Karina on 04.03.2023.//#ifndef INC_1_LAB_ROUND_M_H#define INC_1_LAB_ROUND_M_H#endif //INC_1_LAB_ROUND_M_Hvoid round_m(float *a){    *a = (int) *a;}void round_m(float &a){    a = (int) a;}
