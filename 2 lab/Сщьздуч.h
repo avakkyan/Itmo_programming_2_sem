@@ -1,0 +1,1 @@
+//// Created by Karina on 18.03.2023.//#ifndef INC_2_LAB_СЩЬЗДУЧ_H#define INC_2_LAB_СЩЬЗДУЧ_H#endif //INC_2_LAB_СЩЬЗДУЧ_H
